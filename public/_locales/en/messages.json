@@ -1,0 +1,17 @@
+{
+  "extension_name": {
+    "message": "Design Mode"
+  },
+  "extension_description": {
+    "message": "Enable or disable design mode ('designMode') on web pages, allowing for text editing directly in the browser."
+  },
+  "toggle_design_mode": {
+    "message": "Toggle design mode"
+  },
+  "enable_design_mode": {
+    "message": "Enable design mode"
+  },
+  "disable_design_mode": {
+    "message": "Disable design mode"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "design-mode",
+  "version": "1.0.0",
+  "description": "Chrome extension to toggle design mode on web pages, enabling direct text editing in the browser.",
+  "scripts": {
+    "build": "rm -rf extension && tsup src"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/chrome": "^0.0.246",
+    "@types/node": "^20.4.2",
+    "tsup": "^7.1.0",
+    "tsx": "^3.12.7",
+    "typescript": "^5.1.6"
+  }
+}

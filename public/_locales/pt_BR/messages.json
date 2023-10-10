@@ -1,0 +1,17 @@
+{
+  "extension_name": {
+    "message": "Design Mode"
+  },
+  "extension_description": {
+    "message": "Habilite ou desabilite o modo de design ('designMode') em páginas web, permitindo a edição de texto diretamente no navegador."
+  },
+  "toggle_design_mode": {
+    "message": "Alternar design mode"
+  },
+  "enable_design_mode": {
+    "message": "Ativar design mode"
+  },
+  "disable_design_mode": {
+    "message": "Desativar design mode"
+  }
+}
